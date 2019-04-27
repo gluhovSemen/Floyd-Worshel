@@ -1,4 +1,3 @@
-import numpy as np
 import math
 
 def show_graph(matrix):
